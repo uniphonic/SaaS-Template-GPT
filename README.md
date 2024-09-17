@@ -1,5 +1,13 @@
 # SaaS Template w/ GPT API, Google Auth, Tailwind, & Stripe Payments
 
+<br/><br/><br/>
+  
+> [!WARNING]
+> This template is deprecated, and has been succeeded by a new template [OpenSaaS.sh](https://opensaas.sh).
+> It's a lot more powerful and easier to use. Check it out!
+
+<br/><br/><br/>
+
 <img src='src/client/static/gptsaastemplate.png' width='700px'/>
 
 <br/>
